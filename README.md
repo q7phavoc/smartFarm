@@ -1,2 +1,3 @@
 # smartFarm
-smart farm control
+
+simple smart farm control with react
